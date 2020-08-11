@@ -9,14 +9,9 @@ I am a final-year Ph.D student at Tongji University and I am currently a visting
 Metric Learning; Unsupervised Learning; Domain Adaptation
 
 ## Publications
-div.paper {
-  clear: both;
-  margin-top: 0.5em;
-  margin-bottom: 1em;
-  border: 1px solid #ddd;
-  background: #fff;
-  padding: 1em 1em 1em 1em;
-}
+<img src="/papers/ICCV19.png" alt="Het meisje met de parel" width="400px" height="200px" style="margin:0"> 
+<div align=left><img width = '150' height ='150' src ="/papers/ICCV19.png"/></div> <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
+
 - <div class="paper" id="pc_mem"><img class="paper" src="/papers/ICCV19.png" title="Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification" />
 <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
 <strong>Xinyu Zhang</strong>, Jiewei Cao, Chunhua Shen and Mingyu You <br />
