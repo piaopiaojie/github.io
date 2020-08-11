@@ -18,7 +18,7 @@ ICCV, 2019
 <!-- </div> -->
 <!-- <div class="spanner"></div> -->
 <!-- </div> -->
-- <img src="/papers/ICCV19.png" width="500" alt="ICCV19"> Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification.
+<!-- - <img src="/papers/ICCV19.png" width="500" alt="ICCV19"> Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification. -->
 
 ## Header 2
 
