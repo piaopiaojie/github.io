@@ -9,6 +9,15 @@ I am a final-year Ph.D student at Tongji University and I am currently a visting
 Metric Learning; Unsupervised Learning; Domain Adaptation
 
 ## Publications
+- <div class="paper" id="pc_mem"><img class="paper" src="/papers/ICCV19.png" title="Learning and Memorizing Representative Prototypes for 3D Point Cloud Semantic and Instance Segmentation" />
+<div> <strong>Learning and Memorizing Representative Prototypes for 3D Point Cloud
+Semantic and Instance Segmentation</strong><br />
+<strong>T. He</strong>, D. Gong, Z. Tian and C. Shen <br />
+ECCV, 2020
+<a href='https://arxiv.org/pdf/2001.01349.pdf'>[PDF]</a>
+</div>
+<div class="spanner"></div>
+</div>
 - <img src="/papers/ICCV19.png" width="500" alt="ICCV19"> Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification.
 
 ## Header 2
