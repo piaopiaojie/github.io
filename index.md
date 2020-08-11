@@ -9,121 +9,33 @@ I am a final-year Ph.D student at Tongji University and I am currently a visting
 Metric Learning; Unsupervised Learning; Domain Adaptation
 
 ## Publications
-<!-- <img src="/papers/ICCV19.png" alt="Het meisje met de parel" width="400px" height="200px" style="margin:0">  -->
-<!-- <div align=left><img width = '150' height ='150' src ="/papers/ICCV19.png"/></div> <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br /> -->
-<!-- - <div class="paper" id="pc_mem"><img class="paper" src="/papers/ICCV19.png" title="Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification" /> -->
 - <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
 <strong>Xinyu Zhang</strong>, Jiewei Cao, Chunhua Shen and Mingyu You <br />
 ICCV, 2019
 <a href='https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf'>[PDF]</a>
 <a href='https://github.com/zhangxinyu-xyz/PAST-ReID'>[Code]</a>
 <img src="./papers/ICCV19.png" width="500" alt="ICCV19">
-<!-- - <img src="/papers/ICCV19.png" width="500" alt="ICCV19"> Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification. -->
 
-## Header 2
+- <div> <strong>Part-Guided Attention Learning for Vehicle Re-Identification</strong><br />
+<strong>Xinyu Zhang</strong>, Rufeng Zhang, Jiewei Cao, Dong Gong, Mingyu You and Chunhua Shen <br />
+Arxiv preprint, 2019
+<a href='https://arxiv.org/abs/1909.06023v3'>[PDF]</a>
+<img src="./papers/TITS20.png" width="500" alt="TITS20">
+  
+- <div> <strong>Memorizing Comprehensively to Learn Adaptively: Unsupervised Cross-Domain Person Re-ID with Multi-level Memory</strong><br />
+<strong>Xinyu Zhang</strong>, Dong Gong, Jiewei Cao and Chunhua Shen <br />
+Arxiv preprint, 2020
+<a href='https://arxiv.org/abs/2001.04123'>[PDF]</a>
+<img src="./papers/MEM.png" width="500" alt="MEM">
+    
+- <div> <strong>An extended filtered channel framework for pedestrian detection</strong><br />
+Mingyu You, Yubin Zhang, Chunhua Shen and <strong>Xinyu Zhang</strong> <br />
+IEEE Transactions on Intelligent Transportation Systems (TITS), 2018
+<a href='https://ieeexplore.ieee.org/abstract/document/8310009'>[PDF]</a>
+<!-- <img src="./papers/TITS18.png" width="500" alt="TITS18"> -->
+  
+- <div> <strong>Improved Face Verification with Simple Weighted Feature Combination</strong><br />
+<strong>Xinyu Zhang</strong>, Jiang Zhu and Mingyu You <br />
+CCF Chinese Conference on Computer Vision (CCCV), 2017
+<a href='https://link.springer.com/chapter/10.1007/978-981-10-7302-1_2'>[PDF]</a>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
