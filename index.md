@@ -2,15 +2,14 @@
 layout: default
 ---
 
-# About Me
+## About Me
 I am a final-year Ph.D student at Tongji University and I am currently a visting student at the University of Adelaide, supervised by [Chunhua Shen](https://cs.adelaide.edu.au/~chhshen/) and [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/). Before that I got my B.Sc. degree from Tianjin University of Science and Technology.
 
-# Research Interests
+## Research Interests
 Metric Learning; Unsupervised Learning; Domain Adaptation
 
-# Publications
-![Alt](/images/XinyuZhang.jpeg =30x30)
-![Alt](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw =30x30)
+## Publications
+![ICCV19](/images/XinyuZhang.jpeg)
 Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification.
 
 ## Header 2
