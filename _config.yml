@@ -1,1 +1,6 @@
+title: Xinyu Zhang
+logo: ./images/XinyuZhang.jpeg
+#description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
