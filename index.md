@@ -14,7 +14,7 @@ Metric Learning; Unsupervised Learning; Domain Adaptation
 ICCV, 2019
 <a href='https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf'>[PDF]</a>
 <a href='https://github.com/zhangxinyu-xyz/PAST-ReID'>[Code]</a>
-<img src="./papers/ICCV19.png" width="500" alt="ICCV19">
+<img src="./papers/ICCV19.png" width="500" alt="ICCV19" style="padding:16px">
 
 - <div> <strong>Part-Guided Attention Learning for Vehicle Re-Identification</strong><br />
 <strong>Xinyu Zhang</strong>, Rufeng Zhang, Jiewei Cao, Dong Gong, Mingyu You and Chunhua Shen <br />
