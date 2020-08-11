@@ -9,7 +9,7 @@ I am a final-year Ph.D student at Tongji University and I am currently a visting
 Metric Learning; Unsupervised Learning; Domain Adaptation
 
 ## Publications
-- <img src="/papers/ICCV19.pdf" width="100" alt="ICCV19"> Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification.
+- <img src="/papers/ICCV19.png" width="100" alt="ICCV19"> Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification.
 
 ## Header 2
 
