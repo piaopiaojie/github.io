@@ -9,11 +9,10 @@ I am a final-year Ph.D student at Tongji University and I am currently a visting
 Metric Learning; Unsupervised Learning; Domain Adaptation
 
 ## Publications
-<img src="/papers/ICCV19.png" alt="Het meisje met de parel" width="400px" height="200px" style="margin:0"> 
-<div align=left><img width = '150' height ='150' src ="/papers/ICCV19.png"/></div> <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
-
-- <div class="paper" id="pc_mem"><img class="paper" src="/papers/ICCV19.png" title="Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification" />
-<div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
+<!-- <img src="/papers/ICCV19.png" alt="Het meisje met de parel" width="400px" height="200px" style="margin:0">  -->
+<!-- <div align=left><img width = '150' height ='150' src ="/papers/ICCV19.png"/></div> <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br /> -->
+<!-- - <div class="paper" id="pc_mem"><img class="paper" src="/papers/ICCV19.png" title="Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification" /> -->
+- <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
 <strong>Xinyu Zhang</strong>, Jiewei Cao, Chunhua Shen and Mingyu You <br />
 ICCV, 2019
 <a href='https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf'>[PDF]</a>
