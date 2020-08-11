@@ -15,9 +15,9 @@ Metric Learning; Unsupervised Learning; Domain Adaptation
 ICCV, 2019
 <a href='https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf'>[PDF]</a>
 <a href='https://github.com/zhangxinyu-xyz/PAST-ReID'>[Code]</a>
-<!-- </div> -->
-<!-- <div class="spanner"></div> -->
-<!-- </div> -->
+</div>
+<div class="spanner"></div>
+</div>
 <!-- - <img src="/papers/ICCV19.png" width="500" alt="ICCV19"> Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification. -->
 
 ## Header 2
