@@ -2,13 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# About Me
+I am a final-year Ph.D student at the Tongji University and I am currently a visting student at University of Adelaide, supervised by [Chunhua Shen](https://cs.adelaide.edu.au/~chhshen/) and [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/). Before that I got my B.Sc. degree from Tianjin University of Science and Technology.
 
 # Header 1
 
