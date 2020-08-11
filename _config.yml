@@ -1,7 +1,10 @@
 title: Xinyu Zhang
 logo: ./images/XinyuZhang.jpeg
 description: Ph.D. Candidate, Tongji University, China
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+is_project_page:
 github.repository_ur: https://github.com/zhangxinyu-xyz
+is_google_scholar_page:
+google_scholar_url: https://scholar.google.com/citations?user=PSzJxD8AAAAJ&hl=en
