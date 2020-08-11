@@ -34,11 +34,15 @@
         <p class="view"><a href="{{ site.google_scholar_url }}">View My Google Scholar <small>{{ site.google_scholar_nwo }}</small></a></p>
         {% endif %}
 
+        {% if site.github.is_github_page %}
+        <p class="view"><a href="{{ site.github_url }}">View My Github <small>{{ site.github_nwo }}</small></a></p>
+        {% endif %}
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.google_scholar_url }}"> <strong>Google Scholar</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}"> <strong>Resume</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}"> <strong>GitHub</strong></a></li>
+          <li><a href="{{ site.github_url }}"> <strong>Resume</strong></a></li>
+          <li><a href="{{ site.github_url }}"> <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
       </header>
