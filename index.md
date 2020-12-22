@@ -9,6 +9,13 @@ I am a final-year Ph.D student at Tongji University and I am currently a visting
 Metric Learning; Unsupervised Learning; Domain Adaptation
 
 ## Publications
+- <div> <strong>Diverse Knowledge Distillation for End-to-End Person Search</strong><br />
+<strong>Xinyu Zhang</strong>, Xinlong Wang, Jia-Wang Bian, Chunhua Shen and Mingyu You <br />
+AAAI, 2021
+<a href='https://arxiv.org/abs/2012.11187'>[PDF]</a>
+<a href='https://github.com/zhangxinyu-xyz/DKD-PersonSearch'>[Code]</a>
+<img src="./papers/AAAI21.png" width="500" alt="AAAI21" style="padding:16px">
+
 - <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
 <strong>Xinyu Zhang</strong>, Jiewei Cao, Chunhua Shen and Mingyu You <br />
 ICCV, 2019
@@ -16,9 +23,9 @@ ICCV, 2019
 <a href='https://github.com/zhangxinyu-xyz/PAST-ReID'>[Code]</a>
 <img src="./papers/ICCV19.png" width="500" alt="ICCV19" style="padding:16px">
 
-- <div> <strong>Part-Guided Attention Learning for Vehicle Re-Identification</strong><br />
+- <div> <strong>Part-Guided Attention Learning for Vehicle Instance Retrieval</strong><br />
 <strong>Xinyu Zhang</strong>, Rufeng Zhang, Jiewei Cao, Dong Gong, Mingyu You and Chunhua Shen <br />
-Arxiv preprint, 2019
+IEEE Transactions on Intelligent Transportation Systems (TITS), 2020
 <a href='https://arxiv.org/abs/1909.06023v3'>[PDF]</a>
 <img src="./papers/TITS20.png" width="500" alt="TITS20">
   
