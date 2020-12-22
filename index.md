@@ -8,6 +8,10 @@ I am a final-year Ph.D student at Tongji University and I am currently a visting
 ## Research Interests
 Metric Learning; Unsupervised Learning; Domain Adaptation
 
+## News
+- <div> [Dec. 2020] One paper is accepted by AAAI 2021 <br />
+
+
 ## Publications
 - <div> <strong>Diverse Knowledge Distillation for End-to-End Person Search</strong><br />
 <strong>Xinyu Zhang</strong>, Xinlong Wang, Jia-Wang Bian, Chunhua Shen and Mingyu You <br />
@@ -45,4 +49,11 @@ IEEE Transactions on Intelligent Transportation Systems (TITS), 2018
 <strong>Xinyu Zhang</strong>, Jiang Zhu and Mingyu You <br />
 CCF Chinese Conference on Computer Vision (CCCV), 2017
 <a href='https://link.springer.com/chapter/10.1007/978-981-10-7302-1_2'>[PDF]</a>
+
+
+## Professional Activities
+- <div> <strong>Conference Reviewer</strong><br />
+IJCAI 2021, CVPR 2021, AAAI 2021, PRCV2020
+- <div> <strong>Journal Reviewer</strong><br />
+PR
 
