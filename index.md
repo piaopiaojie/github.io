@@ -20,7 +20,7 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 AAAI, 2021
 <a href='https://arxiv.org/abs/2012.11187'>[PDF]</a>
 <a href='https://github.com/zhangxinyu-xyz/DKD-PersonSearch'>[Code]</a>
-<img src="./papers/AAAI21.png" width="500" alt="AAAI21" style="padding:16px">
+<img src="./papers/AAAI21.png" width="300" alt="AAAI21" style="padding:16px">
 
 - <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
 <strong>Xinyu Zhang</strong>, Jiewei Cao, Chunhua Shen and Mingyu You <br />
