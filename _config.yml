@@ -7,7 +7,7 @@ description: |
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-github.repository_url: https://github.com/zhangxinyu-xyz
+# github.repository_url: https://github.com/zhangxinyu-xyz
 is_google_scholar_page:
 google_scholar_url: https://scholar.google.com/citations?user=PSzJxD8AAAAJ&hl=en
 github.is_github_page:

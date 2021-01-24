@@ -55,7 +55,7 @@ CCF Chinese Conference on Computer Vision (CCCV), 2017
 
 ## Professional Activities
 - <div> <strong>Conference Reviewer</strong><br />
-IJCAI 2021, CVPR 2021, AAAI 2021, PRCV2020
+IJCAI 2021 (SPC), CVPR 2021, AAAI 2021, PRCV2020
 - <div> <strong>Journal Reviewer</strong><br />
 PR
 
