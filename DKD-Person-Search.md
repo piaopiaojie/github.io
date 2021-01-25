@@ -36,5 +36,5 @@ Minyu You: myyou@tongji.edu.cn <br />
 <br />
 <!-- _yay_ -->
 
-#### [Back to homepage](../../)
-#### [Back to projects](../)
+#### [Back to homepage](../)
+#### [Back to projects](../projects)

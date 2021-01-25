@@ -3,7 +3,7 @@
 
 body {
   background-color: #fff;
-  padding:2.75%;
+  padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -11,15 +11,15 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 3%;
+  margin:0 0 20px;
 }
 
 p, ph, ul, ol, table, pre, dl {
-  margin:0 0 3%;
+  margin:0 0 20px;
 }
 
 p {
-  width: 100%;
+  width: 750px;
 }
 
 ph {
@@ -43,7 +43,7 @@ h3, h4, h5, h6 {
 }
 
 h4, h5, h6 {
-  margin:0 0 1.2%;
+  margin:0 0 5px;
 }
 
 a {
@@ -117,7 +117,7 @@ img {
 }
 
 header {
-  width:16%;
+  width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -188,9 +188,9 @@ strong {
 }
 
 section {
-  width:670px;
+  width:700px;
   float:right;
-  padding-bottom:4.8%;
+  padding-bottom:50px;
 }
 
 
