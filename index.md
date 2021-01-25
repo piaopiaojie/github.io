@@ -3,7 +3,8 @@ layout: default
 ---
 
 ## About Me
-I am a final-year Ph.D student at Tongji University and I am currently a visting student at the University of Adelaide, supervised by [Chunhua Shen](https://cs.adelaide.edu.au/~chhshen/) and [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/). Before that I got my B.Sc. degree from Tianjin University of Science and Technology.
+I am a final-year Ph.D student at Tongji University and I am currently a visting student at the University of Adelaide, supervised by [Chunhua Shen](https://cs.adelaide.edu.au/~chhshen/) and [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/). 
+<!-- Before that I got my B.Sc. degree from Tianjin University of Science and Technology. -->
 
 ## Research Interests
 My research interests focus on Computer Vision and Metric Learning, especially on Re-Identification, Unsupervised Learning and Domain Adaptation.
@@ -12,7 +13,7 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 - <div> [Dec. 2020] One paper is accepted by <a href='https://aaai.org/Conferences/AAAI-21/'>[AAAI 2021]</a> <br />
 - <div> [Oct. 2020] One paper is accepted by TITS 2020 <br />
 - <div> [Jul. 2019] One paper is accepted by <a href='https://iccv2019.thecvf.com/'>[ICCV 2019] <br />
-
+<!-- - <div> [project] <a href='projects'>[project] <br /> -->
 
 ## Publications
 - <div> <strong>Diverse Knowledge Distillation for End-to-End Person Search</strong><br />
@@ -20,26 +21,27 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 AAAI, 2021
 <a href='https://arxiv.org/abs/2012.11187'>[PDF]</a>
 <a href='https://github.com/zhangxinyu-xyz/DKD-PersonSearch'>[Code]</a>
+<a href='projects/DKD-Person-Search'>[Project]</a><div>
 <img src="./papers/AAAI21.png" width="300" alt="AAAI21" style="padding:16px">
 
 - <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
 <strong>Xinyu Zhang</strong>, Jiewei Cao, Chunhua Shen and Mingyu You <br />
 ICCV, 2019
 <a href='https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf'>[PDF]</a>
-<a href='https://github.com/zhangxinyu-xyz/PAST-ReID'>[Code]</a>
+<a href='https://github.com/zhangxinyu-xyz/PAST-ReID'>[Code]</a><div>
 <img src="./papers/ICCV19.png" width="300" alt="ICCV19" style="padding:16px">
 
 - <div> <strong>Part-Guided Attention Learning for Vehicle Instance Retrieval</strong><br />
 <strong>Xinyu Zhang</strong>, Rufeng Zhang, Jiewei Cao, Dong Gong, Mingyu You and Chunhua Shen <br />
 IEEE Transactions on Intelligent Transportation Systems (TITS), 2020
-<a href='https://arxiv.org/abs/1909.06023v3'>[PDF]</a>
-<img src="./papers/TITS20.png" width="300" alt="TITS20">
+<a href='https://arxiv.org/abs/1909.06023v3'>[PDF]</a><div>
+<img src="./papers/TITS20.png" width="300" alt="TITS20" style="padding:16px">
   
 - <div> <strong>Memorizing Comprehensively to Learn Adaptively: Unsupervised Cross-Domain Person Re-ID with Multi-level Memory</strong><br />
 <strong>Xinyu Zhang</strong>, Dong Gong, Jiewei Cao and Chunhua Shen <br />
 Arxiv preprint, 2020
-<a href='https://arxiv.org/abs/2001.04123'>[PDF]</a>
-<img src="./papers/MEM.png" width="300" alt="MEM">
+<a href='https://arxiv.org/abs/2001.04123'>[PDF]</a><div>
+<img src="./papers/MEM.png" width="300" alt="MEM" style="padding:16px">
     
 - <div> <strong>An extended filtered channel framework for pedestrian detection</strong><br />
 Mingyu You, Yubin Zhang, Chunhua Shen and <strong>Xinyu Zhang</strong> <br />

@@ -1,8 +1,12 @@
 ---
-layout: default
+layout: project
 ---
 
 ## Welcome to another page
+xxxxxxx
+
+
+
 
 _yay_
 

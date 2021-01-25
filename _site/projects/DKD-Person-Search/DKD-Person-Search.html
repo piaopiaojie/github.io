@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=2">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Diverse Knowledge Distillation for End-to-End Person Search | Xinyu Zhang</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Diverse Knowledge Distillation for End-to-End Person Search" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="College of Electronics and Information Engineering, Tongji University, China" />
+<meta property="og:description" content="College of Electronics and Information Engineering, Tongji University, China" />
+<link rel="canonical" href="http://localhost:4000/projects/DKD-Person-Search/DKD-Person-Search.html" />
+<meta property="og:url" content="http://localhost:4000/projects/DKD-Person-Search/DKD-Person-Search.html" />
+<meta property="og:site_name" content="Xinyu Zhang" />
+<script type="application/ld+json">
+{"description":"College of Electronics and Information Engineering, Tongji University, China","@type":"WebPage","url":"http://localhost:4000/projects/DKD-Person-Search/DKD-Person-Search.html","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/images/XinyuZhang.jpeg"}},"headline":"Diverse Knowledge Distillation for End-to-End Person Search","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=f9f284f802ad46e99a848bab17c47d88b490e100">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="http://localhost:4000/">Xinyu Zhang</a></h1>
+        
+        
+          <img src="/images/XinyuZhang.jpeg" alt="Logo" />
+        
+        
+        <ph class="view"><strong>Ph.D Candidate</strong></p>
+        <ph>College of Electronics and Information Engineering,
+Tongji University, China
+</p>
+        <ph class="view"><strong>Email: </strong> xyzhang0717@gmail.com</p>
+        
+<!--         <p></p> -->
+
+<!--         
+        <p class="view"><a href="https://github.com/zhangxinyu-xyz/xyzhang0717.github.io">View the Project on GitHub <small>zhangxinyu-xyz/xyzhang0717.github.io</small></a></p>
+         -->
+
+<!--          -->
+
+        
+
+        
+
+    <!--     
+        <p class="view"><a href="./projects/">View My Projects <small></small></a></p>
+         -->
+
+        
+        <ul class="downloads">
+          <li style="height:35px"><a href="https://scholar.google.com/citations?user=PSzJxD8AAAAJ&hl=en"> <strong>Google Scholar</strong></a></li>
+          <li style="padding-top:6px;height:35px"><a href="https://github.com/zhangxinyu-xyz"> <strong>Github</strong></a></li>
+          <li style="padding-top:6px;height:35px"><a href="./projects/"> <strong>Projects</strong></a></li>
+        </ul>
+        
+      </header>
+      <section>
+
+      <small></small>
+<!-- <h1>Diverse Knowledge Distillation for End-to-End Person Search</h1> -->
+
+<p class="view"> </p>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=2">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Diverse Knowledge Distillation for End-to-End Person Search | Xinyu Zhang</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Diverse Knowledge Distillation for End-to-End Person Search" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="College of Electronics and Information Engineering, Tongji University, China" />
+<meta property="og:description" content="College of Electronics and Information Engineering, Tongji University, China" />
+<link rel="canonical" href="http://localhost:4000/projects/DKD-Person-Search/DKD-Person-Search.html" />
+<meta property="og:url" content="http://localhost:4000/projects/DKD-Person-Search/DKD-Person-Search.html" />
+<meta property="og:site_name" content="Xinyu Zhang" />
+<script type="application/ld+json">
+{"description":"College of Electronics and Information Engineering, Tongji University, China","@type":"WebPage","url":"http://localhost:4000/projects/DKD-Person-Search/DKD-Person-Search.html","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/images/XinyuZhang.jpeg"}},"headline":"Diverse Knowledge Distillation for End-to-End Person Search","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=f9f284f802ad46e99a848bab17c47d88b490e100">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+
+<section>
+
+<h2 id="diverse-knowledge-distillation-for-end-to-end-person-search">Diverse Knowledge Distillation for End-to-End Person Search</h2>
+<p><strong>Xinyu Zhang</strong>, Xinlong Wang, Jia-Wang Bian, Chunhua Shen and Mingyu You <br /></p>
+
+<h4 id="abstract">Abstract</h4>
+<p>Person search aims to localize and identify a specific person from a gallery of images. Recent methods can be categorized into two groups, i.e., two-step and end-to-end approaches. The former views person search as two independent tasks and achieves dominant results using separately trained person detection and re-identification (Re-ID) models. The latter performs person search in an end-to-end fashion. Although the end-to-end approaches yield higher inference efficiency, they largely lag behind those two-step counterparts in terms of accuracy. In this paper, we argue that the gap between the two kinds of methods is mainly caused by the Re-ID sub-networks of end-to-end methods. To this end, we propose a simple yet strong end-to-end network with diverse knowledge distillation to break the bottleneck. We also design a spatial-invariant augmentation to assist model to be invariant to inaccurate detection results. Experimental results on the CUHK-SYSU and PRW datasets demonstrate the superiority of our method against existing approaches – it achieves on par accuracy with state-of-the-art two-step methods while maintaining high efficiency due to the single joint model. Code is available at: <a href="https://github.com/zhangxinyu-xyz/DKD-PersonSearch">[this https URL].</a></p>
+
+<p><img src="../papers/AAAI21.png" width="250" alt="AAAI21" style="padding:16px" /> 
+<a href="https://arxiv.org/abs/2012.11187">[Diverse Knowledge Distillation for End-to-End Person Search]
+<br /></a></p>
+
+<p><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<!-- _yay_ --></p>
+
+<h4 id="back-to-homepage"><a href="./">Back to homepage</a></h4>
+
+
+</section>
+
+
+
+
+      </section>
+      <footer>
+        
+        <p>This project is maintained by <a href="https://github.com/zhangxinyu-xyz">zhangxinyu-xyz</a></p>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+    
+  </body>
+</html>
