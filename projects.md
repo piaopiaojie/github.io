@@ -10,7 +10,7 @@ AAAI, 2021
 <a href='https://arxiv.org/abs/2012.11187'>[PDF]</a>
 <a href='https://github.com/zhangxinyu-xyz/DKD-PersonSearch'>[Code]</a> -->
 <img src="../papers/AAAI21.png" width="250" alt="AAAI21" style="padding:16px"> 
-<a href='DKD-Person-Search'>[Diverse Knowledge Distillation for End-to-End Person Search]
+<a href='./DKD-Person-Search'>[Diverse Knowledge Distillation for End-to-End Person Search]
 <br />
 
 <img src="../papers/ICCV19.png" width="250" alt="ICCV19" style="padding:16px">
