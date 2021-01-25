@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: DKD-Person-Search
 ---
 
 ## Diverse Knowledge Distillation for End-to-End Person Search
