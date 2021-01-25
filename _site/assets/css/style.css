@@ -140,7 +140,7 @@ ph { width: 100%; }
 
 h1, h2, h3 { line-height: 1.1; }
 
-h1 { font-size: 100%; }
+h1 { font-size: 200%; }
 
 h2 { color: #393939; }
 
@@ -192,7 +192,7 @@ ul.downloads { list-style: none; height: 40px; padding: 0; background: #f4f4f4; 
 
 strong { color: #222; font-weight: 700; }
 
-.downloads li + li { width: 33%; border-left: 1px solid #e0e0e0; border-right: none; }
+.downloads li + li { width: 33%; border-left: 0px solid #e0e0e0; border-right: none; }
 
 .downloads li + li + li { width: 33%; border-left: 1px solid #e0e0e0; border-right: none; }
 
