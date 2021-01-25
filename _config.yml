@@ -8,9 +8,9 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 # github.repository_url: https://github.com/zhangxinyu-xyz
-github.is_google_scholar_page:
+github.is_google_scholar_page: false
 google_scholar_url: https://scholar.google.com/citations?user=PSzJxD8AAAAJ&hl=en
-github.is_github_page:
+github.is_github_page: false
 github_url: https://github.com/zhangxinyu-xyz
 # github.is_project_page:
 project_url: https://zhangxinyu-xyz.github.io/projects
