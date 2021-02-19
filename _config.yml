@@ -10,6 +10,7 @@ description: |
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+github.repository_name: | Xinyu Zhang
 # github.repository_url: https://github.com/zhangxinyu-xyz
 github.is_google_scholar_page: false
 google_scholar_url: https://scholar.google.com/citations?user=PSzJxD8AAAAJ&hl=en
