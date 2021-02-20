@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-I am a final-year Ph.D student at Tongji University and I am currently a visting student at the University of Adelaide, supervised by [Chunhua Shen](https://cs.adelaide.edu.au/~chhshen/) and [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/).
+I am a final-year Ph.D student at Tongji University and I am currently a visting student at the University of Adelaide, supervised by [Chunhua Shen](https://cshen.github.io/), [Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/) and [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/).
 
 **<font color=Red size=4>I am looking for a full time job!</font>**
 <!-- Before that I got my B.Sc. degree from Tianjin University of Science and Technology. -->
