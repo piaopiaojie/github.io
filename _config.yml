@@ -1,16 +1,15 @@
 title: Xinyu Zhang
 logo: ./images/XinyuZhang.jpeg
-description: |
+description: "
   College of Electronics and Information Engineering,
-  Tongji University, China
-  |
+  Tongji University, China |
   School of Computer Science,
-  The University of Adelaide, Australia
+  The University of Adelaide, Australia"
 # Email: "Email: xyzhang0717@gmail.com"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-github.repository_name: | Xinyu Zhang
+github.repository_name: "| Xinyu Zhang"
 # github.repository_url: https://github.com/zhangxinyu-xyz
 github.is_google_scholar_page: false
 google_scholar_url: https://scholar.google.com/citations?user=PSzJxD8AAAAJ&hl=en
