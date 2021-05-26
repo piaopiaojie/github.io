@@ -3,9 +3,10 @@ layout: default
 ---
 
 ## About Me
-I am a final-year Ph.D student at Tongji University and I am currently a visting student at the University of Adelaide, supervised by [Chunhua Shen](https://cshen.github.io/), [Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/) and [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/).
+I am a final-year Ph.D student at Tongji University, China, supervised by Prof. [Mingyu You](https://dblp.org/pid/74/6569.html).
+I am currently a visiting PhD student at the University of Adelaide, Australia, supervised by Prof. [Chunhua Shen](https://cshen.github.io/), Prof. [Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/) and Prof. [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/).
 
-**<font color=Red size=4>I am looking for a full time job!</font>**
+<!-- **<font color=Red size=4>I am looking for a full time job!</font>** -->
 <!-- Before that I got my B.Sc. degree from Tianjin University of Science and Technology. -->
 
 ## Research Interests
