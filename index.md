@@ -13,6 +13,7 @@ I am currently a visiting PhD student at the University of Adelaide, Australia, 
 My research interests focus on Computer Vision and Metric Learning, especially on Re-Identification, Unsupervised Learning and Domain Adaptation.
 
 ## News
+- <div> [Feb. 2022] One paper is accepted by CVPR2022 for Unsupervised Person Re-ID <br />
 - <div> [Dec. 2020] One paper is accepted by <a href='https://aaai.org/Conferences/AAAI-21/'>[AAAI 2021]</a> <br />
 - <div> [Oct. 2020] One paper is accepted by TITS 2020 <br />
 - <div> [Jul. 2019] One paper is accepted by <a href='https://iccv2019.thecvf.com/'>[ICCV 2019] <br />
