@@ -3,8 +3,10 @@ layout: default
 ---
 
 ## About Me
-I am a final-year Ph.D student at Tongji University, China, supervised by Prof. [Mingyu You](https://dblp.org/pid/74/6569.html).
-I am currently a visiting PhD student at the University of Adelaide, Australia, supervised by Prof. [Chunhua Shen](https://cshen.github.io/), Prof. [Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/) and Prof. [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/).
+I am a reearch scientist in Baidu VIS, working closely with [Jingdong Wang](https://jingdongwang2017.github.io/), Jian Wang, Zhigang Wang and [Errui Ding](https://scholar.google.com/citations?user=1wzEtxcAAAAJ&hl=zh-CN). 
+
+Previously, I was a Ph.D student at Tongji University, China and a joint Ph.D student at the University of Adelaide, Australia, supervised by Prof. [Chunhua Shen](https://cshen.github.io/), Prof. [Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/), Prof. [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/) and A/Prof. Mingyu You.
+<!-- I am currently a visiting PhD student at the University of Adelaide, Australia, supervised by Prof. [Chunhua Shen](https://cshen.github.io/), Prof. [Javen Qinfeng Shi](https://cs.adelaide.edu.au/~javen/) and Prof. [Anton van den Hengel](https://cs.adelaide.edu.au/~hengel/). -->
 
 <!-- **<font color=Red size=4>I am looking for a full time job!</font>** -->
 <!-- Before that I got my B.Sc. degree from Tianjin University of Science and Technology. -->
