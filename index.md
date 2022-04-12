@@ -22,6 +22,14 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 <!-- - <div> [project] <a href='projects'>[project] <br /> -->
 
 ## Publications
+- <div> <strong>Implicit Sample Extension for Unsupervised Person Re-Identification</strong><br />
+<strong>Xinyu Zhang</strong>, Dongdong Li, Zhigang Wang, Jian Wang, Javen Qinfeng Shi, Zhaoxiang Zhang and Jingdong Wang <br />
+CVPR, 2022
+<a href=''>[Coming soon]</a>
+<!-- <a href='https://github.com/zhangxinyu-xyz/DKD-PersonSearch'>[Code]</a>
+<a href='DKD-Person-Search'>[Project]</a><div> -->
+<img src="./papers/CVPR22.png" width="300" alt="CVPR22" style="padding:16px">
+  
 - <div> <strong>Diverse Knowledge Distillation for End-to-End Person Search</strong><br />
 <strong>Xinyu Zhang</strong>, Xinlong Wang, Jia-Wang Bian, Chunhua Shen and Mingyu You <br />
 AAAI, 2021
