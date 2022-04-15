@@ -15,20 +15,21 @@ Previously, I was a Ph.D student at Tongji University, China and a joint Ph.D st
 My research interests focus on Computer Vision and Metric Learning, especially on Re-Identification, Unsupervised Learning and Domain Adaptation.
 
 ## News
-- <div> [Feb. 2022] One paper is accepted by CVPR2022 for Unsupervised Person Re-ID <br />
-- <div> [Dec. 2020] One paper is accepted by <a href='https://aaai.org/Conferences/AAAI-21/'>[AAAI 2021]</a> <br />
-- <div> [Oct. 2020] One paper is accepted by TITS 2020 <br />
-- <div> [Jul. 2019] One paper is accepted by <a href='https://iccv2019.thecvf.com/'>[ICCV 2019] <br />
+- <div> [Feb. 2022] One paper is accepted by <a href='https://cvpr2022.thecvf.com/'>[CVPR 2022]</a> for Unsupervised Person Re-ID <br />
+- <div> [Sep. 2021] Defended my Ph.D. thesis successfully! 
+- <div> [Dec. 2020] One paper is accepted by <a href='https://aaai.org/Conferences/AAAI-21/'>[AAAI 2021]</a> for Person Search <br />
+- <div> [Oct. 2020] One paper is accepted by TITS 2020 for Vechicle Re-ID <br />
+- <div> [Jul. 2019] One paper is accepted by <a href='https://iccv2019.thecvf.com/'>[ICCV 2019] for UDA Person Re-ID <br />
 <!-- - <div> [project] <a href='projects'>[project] <br /> -->
 
 ## Publications
 - <div> <strong>Implicit Sample Extension for Unsupervised Person Re-Identification</strong><br />
 <strong>Xinyu Zhang</strong>, Dongdong Li, Zhigang Wang, Jian Wang, Javen Qinfeng Shi, Zhaoxiang Zhang and Jingdong Wang <br />
 CVPR, 2022
-<a href=''>[Coming soon]</a>
-<!-- <a href='https://github.com/zhangxinyu-xyz/DKD-PersonSearch'>[Code]</a>
-<a href='DKD-Person-Search'>[Project]</a><div> -->
-<img src="./papers/CVPR22.png" width="300" alt="CVPR22" style="padding:16px">
+<a href='https://arxiv.org/abs/2204.06892v1'>[PDF]</a>
+<a href='https://github.com/PaddlePaddle/PaddleClas'>[Code]</a><div>
+<!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
+<img src="./papers/CVPR22.png" width="350" alt="CVPR22" style="padding:16px">
   
 - <div> <strong>Diverse Knowledge Distillation for End-to-End Person Search</strong><br />
 <strong>Xinyu Zhang</strong>, Xinlong Wang, Jia-Wang Bian, Chunhua Shen and Mingyu You <br />
@@ -71,7 +72,7 @@ CCF Chinese Conference on Computer Vision (CCCV), 2017
 
 ## Professional Activities
 - <div> <strong>Conference Reviewer</strong><br />
-ICCV2021, IJCAI2021 (SPC), CVPR2021, AAAI2021, PRCV2020
+CVPR, ICCV, ECCV, AAAI, IJCAI
 - <div> <strong>Journal Reviewer</strong><br />
-PR
+PR, Neurocomputing
 
