@@ -15,6 +15,7 @@ Previously, I was a Ph.D student at Tongji University, China and a joint Ph.D st
 My research interests focus on Computer Vision and Metric Learning, especially on Re-Identification, Unsupervised Learning and Domain Adaptation.
 
 ## News
+- <div> [Apr. 2022] One paper is accepted by <a href='https://ijcai-22.org/'>[IJCAI 2022]</a> for Unsupervised Person Re-ID <br />
 - <div> [Feb. 2022] One paper is accepted by <a href='https://cvpr2022.thecvf.com/'>[CVPR 2022]</a> for Unsupervised Person Re-ID <br />
 - <div> [Sep. 2021] Defended my Ph.D. thesis successfully! 
 - <div> [Dec. 2020] One paper is accepted by <a href='https://aaai.org/Conferences/AAAI-21/'>[AAAI 2021]</a> for Person Search <br />
@@ -63,6 +64,8 @@ Mingyu You, Yubin Zhang, Chunhua Shen and <strong>Xinyu Zhang</strong> <br />
 IEEE Transactions on Intelligent Transportation Systems (TITS), 2018
 <a href='https://ieeexplore.ieee.org/abstract/document/8310009'>[PDF]</a>
 <!-- <img src="./papers/TITS18.png" width="500" alt="TITS18"> -->
+  
+- <div> <strong>Implicit Sample Extension for Unsupervised Person Re-Identification</strong><br /> <div>
   
 - <div> <strong>Improved Face Verification with Simple Weighted Feature Combination</strong><br />
 <strong>Xinyu Zhang</strong>, Jiang Zhu and Mingyu You <br />
