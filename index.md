@@ -65,8 +65,6 @@ IEEE Transactions on Intelligent Transportation Systems (TITS), 2018
 <a href='https://ieeexplore.ieee.org/abstract/document/8310009'>[PDF]</a>
 <!-- <img src="./papers/TITS18.png" width="500" alt="TITS18"> -->
   
-- <div> <strong>Implicit Sample Extension for Unsupervised Person Re-Identification</strong><br /> <div>
-  
 - <div> <strong>Improved Face Verification with Simple Weighted Feature Combination</strong><br />
 <strong>Xinyu Zhang</strong>, Jiang Zhu and Mingyu You <br />
 CCF Chinese Conference on Computer Vision (CCCV), 2017
