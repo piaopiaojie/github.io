@@ -28,7 +28,7 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 <strong>Xinyu Zhang</strong>, Dongdong Li, Zhigang Wang, Jian Wang, Javen Qinfeng Shi, Zhaoxiang Zhang and Jingdong Wang <br />
 CVPR, 2022
 <a href='https://arxiv.org/abs/2204.06892v1'>[PDF]</a>
-<a href='https://github.com/PaddlePaddle/PaddleClas'>[Code]</a><div>
+<a href='https://github.com/PaddlePaddle/PaddleClas/blob/develop/docs/en/algorithm_introduction/ISE_ReID_en.md'>[Code]</a><div>
 <!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
 <img src="./papers/CVPR22.png" width="350" alt="CVPR22" style="padding:16px">
   
