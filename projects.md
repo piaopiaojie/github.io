@@ -4,6 +4,16 @@ layout: projects
 
 ## Current Projects
 
+<!-- - <div> <strong>Implicit Sample Extension for Unsupervised Person Re-Identification</strong><br />
+<strong>Xinyu Zhang</strong>, Dongdong Li, Zhigang Wang, Jian Wang, Errui Ding, Javen Qinfeng Shi, Zhaoxiang Zhang Jingdong Wang <br />
+AAAI, 2021
+<a href='https://arxiv.org/abs/2204.06892v1'>[PDF]</a>
+<a href='https://github.com/PaddlePaddle/PaddleClas'>[Code]</a> -->
+- <a href='ISE-USL-Person-ReID'>[Implicit Sample Extension for Unsupervised Person Re-Identification]
+<br />
+<img src="https://zhangxinyu-xyz.github.io/papers/CVPR22.png" width="250" alt="AAAI21" style="padding-top:1.5%"> 
+<br />
+  
 <!-- - <div> <strong>Diverse Knowledge Distillation for End-to-End Person Search</strong><br />
 <strong>Xinyu Zhang</strong>, Xinlong Wang, Jia-Wang Bian, Chunhua Shen and Mingyu You <br />
 AAAI, 2021
