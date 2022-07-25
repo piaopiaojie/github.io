@@ -15,6 +15,8 @@ Previously, I was a Ph.D student at Tongji University, China and a joint Ph.D st
 My research interests focus on Computer Vision and Metric Learning, especially on Re-Identification, Unsupervised Learning and Domain Adaptation.
 
 ## News
+- <div> [Jul. 2022] One paper is accepted by <a href='https://eccv2022.ecva.net/'>[ECCV 2022]</a> for Foundation Model (UFO) <br />
+- <div> [Jun. 2022] One paper is accepted by <a href='https://2022.acmmm.org/'>[ACMMM 2022]</a> for Text-to-Image Person Re-ID <br />
 - <div> [Apr. 2022] One paper is accepted by <a href='https://ijcai-22.org/'>[IJCAI 2022]</a> for Unsupervised Person Re-ID <br />
 - <div> [Feb. 2022] One paper is accepted by <a href='https://cvpr2022.thecvf.com/'>[CVPR 2022]</a> for Unsupervised Person Re-ID <br />
 - <div> [Sep. 2021] Defended my Ph.D. thesis successfully! 
@@ -23,7 +25,8 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 - <div> [Jul. 2019] One paper is accepted by <a href='https://iccv2019.thecvf.com/'>[ICCV 2019] for UDA Person Re-ID <br />
 <!-- - <div> [project] <a href='projects'>[project] <br /> -->
 
-## Publications
+## Publications  
+  
 - <div> <strong>Implicit Sample Extension for Unsupervised Person Re-Identification</strong><br />
 <strong>Xinyu Zhang</strong>, Dongdong Li, Zhigang Wang, Jian Wang, Javen Qinfeng Shi, Zhaoxiang Zhang and Jingdong Wang <br />
 CVPR, 2022
@@ -52,6 +55,22 @@ ICCV, 2019
 IEEE Transactions on Intelligent Transportation Systems (TITS), 2020
 <a href='https://arxiv.org/abs/1909.06023v3'>[PDF]</a><div>
 <img src="./papers/TITS20.png" width="300" alt="TITS20" style="padding:16px">
+
+- <div> <strong>Learning Granularity-Unified Representations for Text-to-Image Person Re-identification</strong><br />
+Zhiyin Shao, <strong>Xinyu Zhang</strong>, Meng Fang, Zhifeng Lin, Jian Wang, and Changxing Ding <br />
+ACMMM, 2022
+<a href='https://arxiv.org/abs/2207.07802'>[PDF]</a>
+<a href='https://github.com/ZhiyinShao-H/LGUR'>[Code]</a><div>
+<!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
+<img src="./papers/ACMMM22.png" width="350" alt="ACMMM22" style="padding:16px">
+  
+- <div> <strong>UFO: Unified Feature Optimization</strong><br />
+Teng Xi, Yifan Sun, Deli Yu, Bi Li, Nan Peng, Gang Zhang, <strong>Xinyu Zhang</strong>, Zhigang Wang, Jinwen Chen, Jian Wang, Lufei Liu, Haocheng Feng, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang <br />
+ECCV, 2022
+<a href='https://arxiv.org/abs/2207.10341'>[PDF]</a>
+<!-- <a href='https://github.com/ZhiyinShao-H/LGUR'>[Code]</a><div> -->
+<!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
+<!-- <img src="./papers/ECCV22.png" width="350" alt="ECCV22" style="padding:16px"> -->
   
 - <div> <strong>Memorizing Comprehensively to Learn Adaptively: Unsupervised Cross-Domain Person Re-ID with Multi-level Memory</strong><br />
 <strong>Xinyu Zhang</strong>, Dong Gong, Jiewei Cao and Chunhua Shen <br />
