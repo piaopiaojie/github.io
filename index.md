@@ -94,5 +94,5 @@ CCF Chinese Conference on Computer Vision (CCCV), 2017
 - <div> <strong>Conference Reviewer</strong><br />
 CVPR, ICCV, ECCV, AAAI, IJCAI
 - <div> <strong>Journal Reviewer</strong><br />
-PR, Neurocomputing
+IJCV, PR, Neurocomputing
 
