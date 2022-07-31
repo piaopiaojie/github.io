@@ -63,6 +63,14 @@ ACMMM, 2022
 <a href='https://github.com/ZhiyinShao-H/LGUR'>[Code]</a><div>
 <!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
 <img src="./papers/ACMMM22.png" width="350" alt="ACMMM22" style="padding:16px">
+
+- <div> <strong>Self-Guided Hard Negative Generation for Unsupervised Person Re-Identification</strong><br />
+Dongdong Li, Zhigang Wang, Jian Wang, Xinyu Zhang, Errui Ding, Jingdong Wang, Zhaoxiang Zhang <br />
+IJCAI, 2022
+<a href='https://www.ijcai.org/proceedings/2022/0149.pdf'>[PDF]</a>
+<!-- <a href='https://github.com/ZhiyinShao-H/LGUR'>[Code]</a><div> -->
+<!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
+<!-- <img src="./papers/ECCV22.png" width="350" alt="ECCV22" style="padding:16px"> -->
   
 - <div> <strong>UFO: Unified Feature Optimization</strong><br />
 Teng Xi, Yifan Sun, Deli Yu, Bi Li, Nan Peng, Gang Zhang, <strong>Xinyu Zhang</strong>, Zhigang Wang, Jinwen Chen, Jian Wang, Lufei Liu, Haocheng Feng, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang <br />
