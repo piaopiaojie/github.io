@@ -18,7 +18,7 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 - <div> [Jul. 2022] One paper is accepted by <a href='https://eccv2022.ecva.net/'>[ECCV 2022]</a> for Foundation Model (UFO) <br />
 - <div> [Jun. 2022] One paper is accepted by <a href='https://2022.acmmm.org/'>[ACMMM 2022]</a> for Text-to-Image Person Re-ID <br />
 - <div> [Apr. 2022] One paper is accepted by <a href='https://ijcai-22.org/'>[IJCAI 2022]</a> for Unsupervised Person Re-ID <br />
-- <div> [Feb. 2022] One paper is accepted by <a href='https://cvpr2022.thecvf.com/'>[CVPR 2022]</a> for Unsupervised Person Re-ID <br />
+- <div> [Feb. 2022] One paper is accepted by <a href='https://cvpr2022.thecvf.com/'>[CVPR 2022]</a> for Unsupervised Person Re-ID. The code of pytorch version is released. <br />
 - <div> [Sep. 2021] Defended my Ph.D. thesis successfully! 
 - <div> [Dec. 2020] One paper is accepted by <a href='https://aaai.org/Conferences/AAAI-21/'>[AAAI 2021]</a> for Person Search <br />
 - <div> [Oct. 2020] One paper is accepted by TITS 2020 for Vechicle Re-ID <br />
@@ -31,7 +31,8 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 <strong>Xinyu Zhang</strong>, Dongdong Li, Zhigang Wang, Jian Wang, Javen Qinfeng Shi, Zhaoxiang Zhang and Jingdong Wang <br />
 CVPR, 2022
 <a href='https://arxiv.org/abs/2204.06892v1'>[PDF]</a>
-<a href='https://github.com/PaddlePaddle/PaddleClas/blob/develop/docs/en/algorithm_introduction/ISE_ReID_en.md'>[Code]</a><div>
+<a href='https://github.com/PaddlePaddle/PaddleClas/blob/develop/docs/en/algorithm_introduction/ISE_ReID_en.md'>[Paddle Code]</a>
+<a href='https://github.com/zhangxinyu-xyz/ISE-ReID'>[Pytorch Code]</a><div>
 <!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
 <img src="./papers/CVPR22.png" width="350" alt="CVPR22" style="padding:16px">
   
