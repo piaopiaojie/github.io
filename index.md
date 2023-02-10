@@ -18,7 +18,7 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 - <div> [Jul. 2022] One paper is accepted by <a href='https://eccv2022.ecva.net/'>[ECCV 2022]</a> for Foundation Model (UFO) <br />
 - <div> [Jun. 2022] One paper is accepted by <a href='https://2022.acmmm.org/'>[ACMMM 2022]</a> for Text-to-Image Person Re-ID <br />
 - <div> [Apr. 2022] One paper is accepted by <a href='https://ijcai-22.org/'>[IJCAI 2022]</a> for Unsupervised Person Re-ID <br />
-- <div> [Feb. 2022] One paper is accepted by <a href='https://cvpr2022.thecvf.com/'>[CVPR 2022]</a> for Unsupervised Person Re-ID. The code of pytorch version is released. <br />
+- <div> [Feb. 2022] One paper is accepted by <a href='https://cvpr2022.thecvf.com/'>[CVPR 2022]</a> for Unsupervised Person Re-ID. <strong>The code of pytorch version is released.</strong> <br />
 - <div> [Sep. 2021] Defended my Ph.D. thesis successfully! 
 - <div> [Dec. 2020] One paper is accepted by <a href='https://aaai.org/Conferences/AAAI-21/'>[AAAI 2021]</a> for Person Search <br />
 - <div> [Oct. 2020] One paper is accepted by TITS 2020 for Vechicle Re-ID <br />
