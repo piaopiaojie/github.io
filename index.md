@@ -15,6 +15,7 @@ Previously, I was a Ph.D student at Tongji University, China and a joint Ph.D st
 My research interests focus on Computer Vision and Metric Learning, especially on Re-Identification, Unsupervised Learning and Domain Adaptation.
 
 ## News
+- <div> [Apr. 2023] One paper is accepted by TIP for Unsupervised Person Re-ID <br />
 - <div> [Jul. 2022] One paper is accepted by <a href='https://eccv2022.ecva.net/'>[ECCV 2022]</a> for Foundation Model (UFO) <br />
 - <div> [Jun. 2022] One paper is accepted by <a href='https://2022.acmmm.org/'>[ACMMM 2022]</a> for Text-to-Image Person Re-ID <br />
 - <div> [Apr. 2022] One paper is accepted by <a href='https://ijcai-22.org/'>[IJCAI 2022]</a> for Unsupervised Person Re-ID <br />
@@ -80,6 +81,11 @@ ECCV, 2022
 <!-- <a href='https://github.com/ZhiyinShao-H/LGUR'>[Code]</a><div> -->
 <!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
 <!-- <img src="./papers/ECCV22.png" width="350" alt="ECCV22" style="padding:16px"> -->
+  
+- <div> <strong>A Real-time Memory Updating Strategy for Unsupervised Person Re-identification</strong><br />
+Junhui Yin, <strong>Xinyu Zhang</strong>, Zhanyu Ma, Jun Guo, Yifan Liu <br />
+TIP, 2023
+<a href='https://ieeexplore.ieee.org/abstract/document/10102757'>[PDF]</a>
   
 - <div> <strong>Memorizing Comprehensively to Learn Adaptively: Unsupervised Cross-Domain Person Re-ID with Multi-level Memory</strong><br />
 <strong>Xinyu Zhang</strong>, Dong Gong, Jiewei Cao and Chunhua Shen <br />
