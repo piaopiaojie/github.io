@@ -32,11 +32,11 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 <sup>*</sup> Equal contribution <sup>+</sup> Project lead <sup>**</sup> Corresponding author
 
 - <div> <strong>HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception</strong><br />
-Junkun Yuan<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>*+</sup>, Hao Zhou, Jian Wang, Zhongwei Qiu, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu and Jingdong Wang<sup>**</sup> <br />
+Junkun Yuan<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>\*+</sup>, Hao Zhou, Jian Wang, Zhongwei Qiu, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu and Jingdong Wang<sup>**</sup> <br />
 NeurIPS, 2023
 
 - <div> <strong>Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification</strong><br />
-Zhiyin Shao<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>*</sup>, Changxing Ding, Jian Wang and Jingdong Wang <br />
+Zhiyin Shao<sup>\*</sup>, <strong>Xinyu Zhang</strong><sup>\*</sup>, Changxing Ding, Jian Wang and Jingdong Wang <br />
 ICCV, 2023
 <a href='https://arxiv.org/abs/2309.01420.pdf'>[PDF]</a>
 <a href='https://github.com/ZhiyinShao-H/UniPT'>[Code]</a><div>
