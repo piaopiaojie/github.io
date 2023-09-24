@@ -36,7 +36,7 @@ Junkun Yuan<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>\*+</sup>, Hao Zhou, J
 NeurIPS, 2023
 
 - <div> <strong>Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification</strong><br />
-Zhiyin Shao<sup>\*</sup>, <strong>Xinyu Zhang</strong><sup>\*</sup>, Changxing Ding, Jian Wang and Jingdong Wang <br />
+Zhiyin Shao<sup>\*</sup>, <strong>Xinyu Zhang</strong><sup>\*</sup>, Changxing Ding<sup>\**</sup>, Jian Wang and Jingdong Wang <br />
 ICCV, 2023
 <a href='https://arxiv.org/abs/2309.01420.pdf'>[PDF]</a>
 <a href='https://github.com/ZhiyinShao-H/UniPT'>[Code]</a><div>
@@ -44,7 +44,7 @@ ICCV, 2023
 <img src="./papers/ICCV23.png" width="350" alt="ICCV23" style="padding:16px">
 
 - <div> <strong>Implicit Sample Extension for Unsupervised Person Re-Identification</strong><br />
-<strong>Xinyu Zhang</strong>, Dongdong Li, Zhigang Wang, Jian Wang, Javen Qinfeng Shi, Zhaoxiang Zhang and Jingdong Wang <br />
+<strong>Xinyu Zhang</strong><sup>\*</sup>, Dongdong Li<sup>\*</sup>, Zhigang Wang, Jian Wang, Javen Qinfeng Shi, Zhaoxiang Zhang and Jingdong Wang<sup>**</sup> <br />
 CVPR, 2022
 <a href='https://arxiv.org/abs/2204.06892v1'>[PDF]</a>
 <a href='https://github.com/PaddlePaddle/PaddleClas/blob/develop/docs/en/algorithm_introduction/ISE_ReID_en.md'>[Paddle Code]</a>
@@ -53,7 +53,7 @@ CVPR, 2022
 <img src="./papers/CVPR22.png" width="350" alt="CVPR22" style="padding:16px">
   
 - <div> <strong>Diverse Knowledge Distillation for End-to-End Person Search</strong><br />
-<strong>Xinyu Zhang</strong>, Xinlong Wang, Jia-Wang Bian, Chunhua Shen and Mingyu You <br />
+<strong>Xinyu Zhang</strong>, Xinlong Wang, Jia-Wang Bian, Chunhua Shen and Mingyu You<sup>**</sup> <br />
 AAAI, 2021
 <a href='https://arxiv.org/abs/2012.11187'>[PDF]</a>
 <a href='https://github.com/zhangxinyu-xyz/DKD-PersonSearch'>[Code]</a>
@@ -61,20 +61,20 @@ AAAI, 2021
 <img src="./papers/AAAI21.png" width="300" alt="AAAI21" style="padding:16px">
 
 - <div> <strong>Self-Training with Progressive Augmentation for Unsupervised Cross-Domain Person Re-identification</strong><br />
-<strong>Xinyu Zhang</strong>, Jiewei Cao, Chunhua Shen and Mingyu You <br />
+<strong>Xinyu Zhang</strong><sup>\*</sup>, Jiewei Cao<sup>\*</sup>, Chunhua Shen<sup>**</sup> and Mingyu You <br />
 ICCV, 2019
 <a href='https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.pdf'>[PDF]</a>
 <a href='https://github.com/zhangxinyu-xyz/PAST-ReID'>[Code]</a><div>
 <img src="./papers/ICCV19.png" width="300" alt="ICCV19" style="padding:16px">
 
 - <div> <strong>Part-Guided Attention Learning for Vehicle Instance Retrieval</strong><br />
-<strong>Xinyu Zhang</strong>, Rufeng Zhang, Jiewei Cao, Dong Gong, Mingyu You and Chunhua Shen <br />
+<strong>Xinyu Zhang</strong><sup>\*</sup>, Rufeng Zhang<sup>\*</sup>, Jiewei Cao, Dong Gong, Mingyu You<sup>**</sup> and Chunhua Shen <br />
 IEEE Transactions on Intelligent Transportation Systems (TITS), 2020
 <a href='https://arxiv.org/abs/1909.06023v3'>[PDF]</a><div>
 <img src="./papers/TITS20.png" width="300" alt="TITS20" style="padding:16px">
 
 - <div> <strong>Learning Granularity-Unified Representations for Text-to-Image Person Re-identification</strong><br />
-Zhiyin Shao, <strong>Xinyu Zhang</strong>, Meng Fang, Zhifeng Lin, Jian Wang, and Changxing Ding <br />
+Zhiyin Shao, <strong>Xinyu Zhang</strong>, Meng Fang, Zhifeng Lin, Jian Wang, and Changxing Ding<sup>**</sup> <br />
 ACMMM, 2022
 <a href='https://arxiv.org/abs/2207.07802'>[PDF]</a>
 <a href='https://github.com/ZhiyinShao-H/LGUR'>[Code]</a><div>
@@ -122,7 +122,7 @@ CCF Chinese Conference on Computer Vision (CCCV), 2017
 
 ## Professional Activities
 - <div> <strong>Conference Reviewer</strong><br />
-CVPR, ICCV, ECCV, AAAI, IJCAI
+ICLR, NeurIPS, CVPR, ICCV, ECCV, AAAI, IJCAI
 - <div> <strong>Journal Reviewer</strong><br />
-IJCV, PR, Neurocomputing
+IJCV, TMM, PR, Neurocomputing
 
