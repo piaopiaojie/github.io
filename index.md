@@ -15,6 +15,7 @@ Previously, I was a Ph.D student at Tongji University, China and a joint Ph.D st
 My research interests focus on Computer Vision and Metric Learning, especially on Re-Identification, Unsupervised Learning and Domain Adaptation.
 
 ## News
+- <div> [Sep. 2023] One paper is accepted by NeurIPS 2023 for <strong>Human-centric Pretraining</strong> <br />
 - <div> [July. 2023] One paper is accepted by <a href='https://iccv2023.thecvf.com/'>[ICCV 2023]</a> for Image-Text <strong>Pretraining</strong> for Person Re-ID <br />
 - <div> [Apr. 2023] One paper is accepted by TIP for Unsupervised Person Re-ID <br />
 - <div> [Jul. 2022] One paper is accepted by <a href='https://eccv2022.ecva.net/'>[ECCV 2022]</a> for Foundation Model (UFO) <br />
@@ -28,7 +29,20 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 <!-- - <div> [project] <a href='projects'>[project] <br /> -->
 
 ## Publications  
-  
+<sup>*</sup> Equal contribution <sup>+</sup> Project lead <sup>**</sup> Corresponding author
+
+- <div> <strong>HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception</strong><br />
+Junkun Yuan<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>*+</sup>, Hao Zhou, Jian Wang, Zhongwei Qiu, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu and Jingdong Wang<sup>**</sup> <br />
+NeurIPS, 2023
+
+- <div> <strong>Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification</strong><br />
+Zhiyin Shao<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>*</sup>, Changxing Ding, Jian Wang and Jingdong Wang <br />
+ICCV, 2023
+<a href='https://arxiv.org/abs/2309.01420.pdf'>[PDF]</a>
+<a href='https://github.com/ZhiyinShao-H/UniPT'>[Code]</a><div>
+<!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
+<img src="./papers/ICCV23.png" width="350" alt="ICCV23" style="padding:16px">
+
 - <div> <strong>Implicit Sample Extension for Unsupervised Person Re-Identification</strong><br />
 <strong>Xinyu Zhang</strong>, Dongdong Li, Zhigang Wang, Jian Wang, Javen Qinfeng Shi, Zhaoxiang Zhang and Jingdong Wang <br />
 CVPR, 2022
