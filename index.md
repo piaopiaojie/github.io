@@ -15,6 +15,7 @@ Previously, I was a Ph.D student at Tongji University, China and a joint Ph.D st
 My research interests focus on Computer Vision and Metric Learning, especially on Re-Identification, Unsupervised Learning and Domain Adaptation.
 
 ## News
+- <div> [Oct. 2023] <strong>CAE v2</strong> is accepted by TMLR 2023 for <strong>MIM Pretraining</strong> <br />
 - <div> [Sep. 2023] One paper is accepted by NeurIPS 2023 for <strong>Human-centric Pretraining</strong> <br />
 - <div> [July. 2023] One paper is accepted by <a href='https://iccv2023.thecvf.com/'>[ICCV 2023]</a> for Image-Text <strong>Pretraining</strong> for Person Re-ID <br />
 - <div> [Apr. 2023] One paper is accepted by TIP for Unsupervised Person Re-ID <br />
@@ -30,6 +31,13 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 
 ## Publications  
 <sup>*</sup> Equal contribution <sup>+</sup> Project lead <sup>**</sup> Corresponding author
+
+- <div> <strong>CAE v2: Context Autoencoder with CLIP Latent Alignment</strong><br />
+Xinyu Zhang<sup>*</sup>, Jiahui Chen<sup>*</sup>, Junkun Yuan, Qiang Chen, Jian Wang, Xiaodi Wang, Shumin Han, Xiaokang Chen, Jimin Pi, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang<sup>**</sup> <br />
+TMLR, 2023
+<a href='https://openreview.net/pdf?id=f36LaK7M0F'>[PDF]</a>
+<a href='https://github.com/Atten4Vis/CAE'>[Code]</a><div>
+
 
 - <div> <strong>HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception</strong><br />
 Junkun Yuan<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>*+</sup>, Hao Zhou, Jian Wang, Zhongwei Qiu, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu and Jingdong Wang<sup>**</sup> <br />
