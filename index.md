@@ -16,6 +16,7 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 
 ## News
 - <div> [Oct. 2023] <strong>CAE v2</strong> is accepted by TMLR 2023 for <strong>MIM Pretraining</strong> <br />
+- <div> [Oct. 2023] One is accepted by TIP for Multi-Object Tracking <br />
 - <div> [Sep. 2023] One paper is accepted by NeurIPS 2023 for <strong>Human-centric Pretraining</strong> <br />
 - <div> [July. 2023] One paper is accepted by <a href='https://iccv2023.thecvf.com/'>[ICCV 2023]</a> for Image-Text <strong>Pretraining</strong> for Person Re-ID <br />
 - <div> [Apr. 2023] One paper is accepted by TIP for Unsupervised Person Re-ID <br />
@@ -44,7 +45,7 @@ Junkun Yuan<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>*+</sup>, Hao Zhou, Ji
 NeurIPS, 2023
 
 - <div> <strong>Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification</strong><br />
-Zhiyin Shao<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>*</sup>, Changxing Ding<sup>\**</sup>, Jian Wang and Jingdong Wang <br />
+Zhiyin Shao<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>*</sup>, Changxing Ding<sup>**</sup>, Jian Wang and Jingdong Wang <br />
 ICCV, 2023
 <a href='https://arxiv.org/abs/2309.01420.pdf'>[PDF]</a>
 <a href='https://github.com/ZhiyinShao-H/UniPT'>[Code]</a><div>
@@ -88,6 +89,12 @@ ACMMM, 2022
 <a href='https://github.com/ZhiyinShao-H/LGUR'>[Code]</a><div>
 <!-- <a href='DKD-Person-Search'>[Project]</a><div> -->
 <img src="./papers/ACMMM22.png" width="350" alt="ACMMM22" style="padding:16px">
+
+- <div> <strong>STAT: Multi-Object Tracking Based on Spatio-Temporal Topological Constraints</strong><br />
+Junjie Zhang, Mingyan Wang, Haoran Jiang, <strong>Xinyu Zhang</strong>, Chenggang Yan, Dan Zeng<sup>**</sup><br />
+TIP, 2023
+<a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10278217'>[PDF]</a>
+
 
 - <div> <strong>Self-Guided Hard Negative Generation for Unsupervised Person Re-Identification</strong><br />
 Dongdong Li, Zhigang Wang, Jian Wang, Xinyu Zhang, Errui Ding, Jingdong Wang, Zhaoxiang Zhang <br />
