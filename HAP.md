@@ -30,5 +30,3 @@ Model pre-training is essential in human-centric perception. In this paper, we f
 <a href='https://zhangxinyu-xyz.github.io/'>Xinyu Zhang</a>: xyzhang0717@gmail.com <br />
 
 
-#### [Back to homepage](../)
-#### [Back to projects](../projects)
