@@ -4,6 +4,16 @@ layout: projects
 
 ## Current Projects
 
+<!-- - <div> <strong>HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception</strong><br />
+Junkun Yuan<sup>*</sup>, <strong>Xinyu Zhang</strong><sup>*+</sup>, Hao Zhou, Jian Wang, Zhongwei Qiu, Zhiyin Shao, Shaofeng Zhang, Sifan Long, Kun Kuang, Kun Yao, Junyu Han, Errui Ding, Lanfen Lin, Fei Wu and Jingdong Wang<sup>**</sup> <br />
+NeurIPS, 2023
+<a href='https://arxiv.org/abs/'>[PDF]</a>
+<a href='https://github.com/junkunyuan/HAP'>[Code]</a> -->
+- <a href='HAP'>[HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception]
+<br />
+<img src="https://zhangxinyu-xyz.github.io/papers/NeurIPS23.png" width="250" alt="NeurIPS21" style="padding-top:1.5%"> 
+<br />
+
 <!-- - <div> <strong>Implicit Sample Extension for Unsupervised Person Re-Identification</strong><br />
 <strong>Xinyu Zhang</strong>, Dongdong Li, Zhigang Wang, Jian Wang, Errui Ding, Javen Qinfeng Shi, Zhaoxiang Zhang Jingdong Wang <br />
 AAAI, 2021
