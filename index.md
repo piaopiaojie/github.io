@@ -15,8 +15,9 @@ Previously, I was a Ph.D student at Tongji University, China and a joint Ph.D st
 My research interests focus on Computer Vision and Metric Learning, especially on Re-Identification, Unsupervised Learning and Domain Adaptation.
 
 ## News
+- <div> [Feb. 2024] One paper <strong>VRP-SAM</strong> is accepted by CVPR 2024 for <strong>few-show segmentation</strong> <br />
 - <div> [Oct. 2023] <strong>CAE v2</strong> is accepted by TMLR 2023 for <strong>MIM Pretraining</strong> <br />
-- <div> [Oct. 2023] One is accepted by TIP for Multi-Object Tracking <br />
+- <div> [Oct. 2023] One paper <strong>STAT</strong> is accepted by TMM for Multi-Object Tracking <br />
 - <div> [Sep. 2023] One paper is accepted by NeurIPS 2023 for <strong>Human-centric Pretraining</strong> <br />
 - <div> [July. 2023] One paper is accepted by <a href='https://iccv2023.thecvf.com/'>[ICCV 2023]</a> for Image-Text <strong>Pretraining</strong> for Person Re-ID <br />
 - <div> [Apr. 2023] One paper is accepted by TIP for Unsupervised Person Re-ID <br />
