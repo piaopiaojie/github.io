@@ -34,6 +34,11 @@ My research interests focus on Computer Vision and Metric Learning, especially o
 ## Publications  
 <sup>*</sup> Equal contribution <sup>+</sup> Project lead <sup>**</sup> Corresponding author
 
+- <div> <strong>Uni-SD: Unified Image Generation for Object Detection</strong><br />
+Xinyu Zhang, Xiaodi Wang, Dong Gong, Jinwen Chen, Haixiao Yue, Gang Zhang, Kun Yao, Lingqiao Liu, Errui Ding, Jingdong Wang
+<a href='https://github.com/zhangxinyu-xyz/zhangxinyu-xyz.github.io/blob/gh-pages/papers/UniSD.pdf'>[PDF]</a>
+
+
 - <div> <strong>CAE v2: Context Autoencoder with CLIP Latent Alignment</strong><br />
 Xinyu Zhang<sup>*</sup>, Jiahui Chen<sup>*</sup>, Junkun Yuan, Qiang Chen, Jian Wang, Xiaodi Wang, Shumin Han, Xiaokang Chen, Jimin Pi, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang<sup>**</sup> <br />
 TMLR, 2023
